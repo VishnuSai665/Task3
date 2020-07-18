@@ -1,6 +1,5 @@
 #Task 3
 
-$fdvdf
 Session 3- Design Principle- SOLID/KISS/YAGNI 
 
 a) Implement Calculator Application with Add,Divide,Multiply and Subtract Methods

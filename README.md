@@ -1,5 +1,5 @@
 # Task3
 
-# Implement Calculator Application with Add,Divide,Multiply and Subtract Methods
-# Implement Layered Architecture
-# Implement KISS,SOLID,DRY,YAGNI principles.
+a) Implement Calculator Application with Add,Divide,Multiply and Subtract Methods
+b) Implement Layered Architecture
+c) Implement KISS,SOLID,DRY,YAGNI principles.
